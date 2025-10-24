@@ -12,3 +12,5 @@ Endpoints:
 4. In Vercel **Settings → Environment Variables** add:
    - `OPENAI_API_KEY` = your `sk-...` (Preview + Production, Sensitive ON)
 5. Visit `/api/hello` to verify. Then use `/api/chat`, `/api/image`, `/api/voice` with POST.
+
+Comment 
